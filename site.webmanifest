@@ -1,0 +1,15 @@
+{
+  "name": "Шкафы купе, мебель на заказ — Москва",
+  "short_name": "Шкафы купе, мебель на за",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#20242a",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
